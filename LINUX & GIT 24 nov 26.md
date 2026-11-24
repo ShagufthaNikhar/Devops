@@ -56,8 +56,8 @@ Search in Vim Editor
 
 
 ## Commands
-$ git config --global user.name "ShagufthaNikhar"
-$ git config --global user.name "shagufthanikhar@gmail.com"
-$ git config --list
+- $ git config --global user.name "ShagufthaNikhar"
+- $ git config --global user.name "shagufthanikhar@gmail.com"
+- $ git config --list
 
 
